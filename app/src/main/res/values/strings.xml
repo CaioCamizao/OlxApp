@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Olx</string>
+    <string name="nome_do_produto">Nome do Produto:</string>
+    <string name="categoria">Categoria:</string>
+    <string name="pre_o">Preço:</string>
+    <string name="descricao_adicionar_anuncio">Olá! Preencha corretamente todos os campos para inserir seu novo Anúncio.   Obrigado :)</string>
+    <string name="nome_do_produto">Nome do Produto:</string>
+    <string name="categoria">Categoria:</string>
+    <string name="pre_o">Preço:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="deletar">Deletar</string>
+    <string name="editar">Editar</string>
+</resources>
